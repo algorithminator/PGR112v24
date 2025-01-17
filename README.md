@@ -1,4 +1,5 @@
 # PGR112 - Våren 2024
+#TESTKOPI for meself
 
 > Objektorientert programmering
 
